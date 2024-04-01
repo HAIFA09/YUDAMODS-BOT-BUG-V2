@@ -287,7 +287,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`./TzyMedia/theme/cheemspic.jpg`),
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`}}},
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'}}},
 { quoted: m})
 }
 const replygcTzy = (teks) => {        
@@ -305,8 +305,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": defaultpp,
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -2608,8 +2608,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": defaultpp,
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -2661,8 +2661,8 @@ mentionedJid:[sender, mark],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": fs.readFileSync("./TzyMedia/theme/cheemspic.jpg"),
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 }, { quoted: m })
@@ -3303,8 +3303,8 @@ mentionedJid:[sender, mark],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": fs.readFileSync("./TzyMedia/theme/cheemspic.jpg"),
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -3341,8 +3341,8 @@ mentionedJid:[sender, mark],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": fs.readFileSync("./TzyMedia/theme/cheemspic.jpg"),
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -3387,8 +3387,8 @@ mentionedJid:[sender, mark],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": fs.readFileSync("./TzyMedia/theme/cheemspic.jpg"),
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -3425,8 +3425,8 @@ mentionedJid:[sender, mark],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": fs.readFileSync("./TzyMedia/theme/cheemspic.jpg"),
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -3483,8 +3483,8 @@ mentionedJid:[sender, mark],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": fs.readFileSync("./TzyMedia/theme/cheemspic.jpg"),
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -3686,8 +3686,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": defaultpp,
-"mediaUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`
+"mediaUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg',
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'
 }
 }
 })
@@ -4001,7 +4001,7 @@ mentionedJid:[sender],
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": ``,
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`}}}, {quoted:m})
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'}}}, {quoted:m})
 
 await yudamods.sendMessage(num, {text:`You can also reply to the message by sending a message, if you don't want to reply, please type .leave and enter send button`}, { quoted : m })
 lidt = `Success Sending Message
@@ -5589,7 +5589,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`./TzyMedia/theme/cheemspic.jpg`),
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`}}},
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'}}},
 { quoted: m})
 }
 break
@@ -7121,7 +7121,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`./TzyMedia/theme/cheemspic.jpg`),
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`}}},
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'}}},
 { quoted: m})        
             }
             break
@@ -7145,7 +7145,7 @@ isForwarded: true,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": fs.readFileSync(`./TzyMedia/theme/cheemspic.jpg`),
-"sourceUrl": `telegra.ph/file/4512d32ecf798940e4081.jpg`}}},
+"sourceUrl": 'telegra.ph/file/4512d32ecf798940e4081.jpg'}}},
 { quoted: m})        
             }
             break
